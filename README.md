@@ -4,4 +4,4 @@
 - Usually write in Java, sometimes it's something like Python/JS/Dart, depends on a case
 - You can shoot me an email at [the.mikhail.stepanov@gmail.com](mailto:the.mikhail.stepanov@gmail.com)
 
-![Top Langs](https://github-readme-stats-eight-chi-59.vercel.app/api/top-langs/?username=mikhail-stepanov&layout=compact&exclude_repo=together-admin,together-mobile,earth-observation)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-stepanov)](https://github.com/anuraghazra/github-readme-stats)
