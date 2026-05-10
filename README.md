@@ -9,7 +9,6 @@
 - Software Engineer & Lead @ [Align Technology](https://www.aligntech.com/)
 
 **Stack**
-
 ![Top Languages](./profile/top-langs.svg)
 
 **Reach out**
