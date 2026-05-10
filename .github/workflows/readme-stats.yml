@@ -20,7 +20,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=1f2328&bg_color=ffffff
           path: profile/stats.svg
           token: ${{ secrets.PAT_TOKEN }}
 
@@ -28,7 +28,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&title_color=0969da&text_color=1f2328&bg_color=ffffff
           path: profile/top-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
 
