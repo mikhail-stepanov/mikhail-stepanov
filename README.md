@@ -21,10 +21,3 @@
 **Reach out**
 
 [Email](mailto:the.mikhail.stepanov@gmail.com) · [Telegram](https://t.me/go_on_maggot_brain) · [LinkedIn](https://www.linkedin.com/in/mikhail-stepanovv/)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikhail-stepanov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-stepanov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=together-admin,together-mobile&hide=html,css" height="180"/>
-</p>
