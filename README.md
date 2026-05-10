@@ -21,3 +21,9 @@
 **Reach out**
 
 [Email](mailto:the.mikhail.stepanov@gmail.com) · [Telegram](https://t.me/go_on_maggot_brain) · [LinkedIn](https://www.linkedin.com/in/mikhail-stepanovv/)
+
+<div style="margin-top: 70px;">
+
+![Top Languages](./profile/top-langs.svg)
+
+</div>
