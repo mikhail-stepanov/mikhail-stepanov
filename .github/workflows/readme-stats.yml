@@ -20,7 +20,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&title_color=0969da&text_color=1f2328&bg_color=ffffff&exclude_repo=together-admin,together-mobile,uocns-web,vkuster
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&title_color=0969da&text_color=1f2328&bg_color=ffffff&exclude_repo=together-admin,together-mobile,uocns-web,vkuster,muse-streaming
           path: profile/top-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
 
