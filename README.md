@@ -8,10 +8,6 @@
 - Founding Engineer @ [Oneum](https://oneum.io/)
 - Software Engineer & Lead @ [Align Technology](https://www.aligntech.com/)
 
-**Stack**
-
-![Top Languages](./profile/top-langs.svg)
-
 **Reach out**
 
 [Email](mailto:the.mikhail.stepanov@gmail.com) · [Telegram](https://t.me/go_on_maggot_brain) · [LinkedIn](https://www.linkedin.com/in/mikhail-stepanovv/)
